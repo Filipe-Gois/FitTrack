@@ -8,7 +8,7 @@
 
 <h1>FitTrack</h1>
 
-<p>Projeto em grupo desenvolvido ao final do terceiro termo do curso técnico de Desenvolvimento de Sistemas na escola SENAI de Informática.</p>
+<p>Projeto em grupo desenvolvido ao final do terceiro termo do curso técnico de Desenvolvimento de Sistemas na <a href="https://www.linkedin.com/school/senaiinfo/posts/?feedView=all" target="_blank"><strong>Escola SENAI de Informática</strong></a>.</p>
 
 <h2>Problemática</h2>
 
